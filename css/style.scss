@@ -103,7 +103,8 @@ img {
   margin-top: 20px;
 
   .menu-img {
-    background-image: url(/img/menu.jpg);
+    background-image: url("../menu.jpg");
+
     position: relative;
   }
 
@@ -240,7 +241,8 @@ img {
   margin-top: 20px;
 
   .location-img {
-    background-image: url("../img/location.jpg");
+    background-image: url("../location.jpg");
+
     position: relative;
   }
 
